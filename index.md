@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/belagoesr/belagoesr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Books notes
 
-### Markdown
+**Clean Code:** [Notes](https://belagoesr.github.io/belagoesr/pdf/cleanCodeNotes.pdf)
+### Posts
+ 
+**Machine Learning and Data Science:**
+- [Customer Segmentation](https://medium.com/analytics-vidhya/customer-analysis-on-arvato-dataset-dfc48d96a96f)
+- [Predicting No-Show Medical Appointments](https://medium.com/@belagoesr/can-we-predict-if-patients-will-miss-their-medical-appointments-8a14116048f7) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+**Data Engineering**
 
-# Header 1
-## Header 2
-### Header 3
+  - [Data Modelling with Postgres](https://github.com/belagoesr/Data-Engineering-Nanodegree/tree/master/data_modeling_with_postgres)
+  - [Data Lake with Spark](https://github.com/belagoesr/Data-Engineering-Nanodegree/tree/master/data_lake_with_spark)
+  - [Data Pipelines with Airflow](https://github.com/belagoesr/Data-Engineering-Nanodegree/tree/master/data_pipelines_with_airflow)
+  - [Data Warehouse using Redshift](https://github.com/belagoesr/Data-Engineering-Nanodegree/tree/master/data_warehouse_using_redshift)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/belagoesr/belagoesr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Data Science, Machine Learning and Deep Learning**
+  - [Deep Learning with Pytorch](https://github.com/belagoesr/Image-Classifier-Project)
+  - [Data Science Nanodegree](https://github.com/belagoesr/nanodegree_capstone)  
+  - [Kaggle - TMDB Box Office Prediction](https://github.com/belagoesr/kaggle-TMDB-Box-Office-Prediction)
